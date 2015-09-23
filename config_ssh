@@ -1,0 +1,656 @@
+Host vpc-vst-prd-batch-application2
+	 HostName 172.16.8.140
+	 port 22
+
+Host vpc-vce-dev-reporting
+	 HostName 172.16.15.192
+	 port 22
+
+Host vpc-vce-demo-web
+	 HostName 172.16.15.10
+	 port 22
+
+Host vpc-vst-smoke-application2
+	 HostName 172.16.14.69
+	 port 22
+
+Host vpc-vst-test-application1
+	 HostName 172.16.14.137
+	 port 22
+
+Host vpc-sjc-perforce01-tgreer
+	 HostName 172.16.15.87
+	 port 22
+
+Host vpc-g2g-dc2
+	 HostName 172.16.14.243
+	 port 22
+
+Host vpc-g2g-build
+	 HostName 172.16.15.156
+	 port 22
+
+Host vpc-vce-dev-loadbalancer
+	 HostName 172.16.15.75
+	 port 22
+
+Host vpc-onprem-dev-vs
+	 HostName 172.16.14.170
+	 port 22
+
+Host vpc-g2g-bjchoi
+	 HostName 172.16.15.191
+	 port 22
+
+Host vpc-vst-devops-loadbalancer1
+	 HostName 172.25.4.18
+	 port 22
+
+Host VMP-smachado
+	 HostName 172.16.13.218
+	 port 22
+
+Host vpc-g2g-mtimbs
+	 HostName 172.16.15.76
+	 port 22
+
+Host vpc-g2g-nat
+	 HostName 172.16.15.8
+	 port 22
+
+Host vpc-vst-load-db-ebs
+	 HostName 172.16.14.160
+	 port 22
+
+Host vpc-vbi-test-tableau2
+	 HostName 172.16.15.134
+	 port 22
+
+Host vpc-vce-test-loadbalancer
+	 HostName 172.16.15.64
+	 port 22
+
+Host vpc-vce-dev-web
+	 HostName 172.16.15.37
+	 port 22
+
+Host vpc-g2g-lsokolov
+	 HostName 172.16.15.197
+	 port 22
+
+Host vpc-vce-stage-tel
+	 HostName 172.16.14.125
+	 port 22
+
+Host vpc-vst-prd-batch-application1
+	 HostName 172.16.8.85
+	 port 22
+
+Host vpc-james-ld-db2
+	 HostName 172.16.14.179
+	 port 22
+
+Host vpc-g2g-ansible
+	 HostName 172.16.15.84
+	 port 22
+
+Host do-not-use-me (vpc-vbi-test-tableau)
+	 HostName 172.16.15.239
+	 port 22
+
+Host vpc-vce-test-db-olap
+	 HostName 172.16.14.86
+	 port 22
+
+Host vpc-vst-prd-loadbalancer1
+	 HostName 172.16.8.65
+	 port 22
+
+Host vpc-vst-admin
+	 HostName 172.16.15.248
+	 port 22
+
+Host vpc-g2g-jradford
+	 HostName 172.16.15.99
+	 port 22
+
+Host vpc-vce-stage-db-intf
+	 HostName 172.16.14.72
+	 port 22
+
+Host vpc-vst-dev-db
+	 HostName 172.16.14.116
+	 port 22
+
+Host vpc-vst-prdtst-db-01
+	 HostName 172.16.9.254
+	 port 22
+
+Host vpc-g2g-csung
+	 HostName 172.16.15.188
+	 port 22
+
+Host vpc-g2g-stash-scm
+	 HostName 172.16.15.153
+	 port 22
+
+Host vpc-vst-load-db
+	 HostName 172.16.14.209
+	 port 22
+
+Host vpc-vst-prd-application4
+	 HostName 172.16.8.135
+	 port 22
+
+Host vpc-g2g-term0
+	 HostName 172.16.15.100
+	 port 22
+
+Host vpc-g2g-mchapman
+	 HostName 172.16.15.246
+	 port 22
+
+Host vpc-voicepoc-dev-sipgateway
+	 HostName 172.16.15.107
+	 port 22
+
+Host vpc-vst-smoke-db
+	 HostName 172.16.14.178
+	 port 22
+
+Host vpc-g2g-dbaldwin
+	 HostName 172.16.14.235
+	 port 22
+
+Host vpc-vst-stage-db2
+	 HostName 172.16.12.248
+	 port 22
+
+Host vpc-g2g-JBivins-CentOs
+	 HostName 172.16.15.157
+	 port 22
+
+Host vpc-g2g-lhall
+	 HostName 172.16.15.40
+	 port 22
+
+Host vpc-vst-stage-application3
+	 HostName 172.16.12.49
+	 port 22
+
+Host vpc-vst-prd-sync2
+	 HostName 172.16.8.159
+	 port 22
+
+Host vpc-vce-dev-tel
+	 HostName 172.16.14.61
+	 port 22
+
+Host vpc-vce-test-reporting
+	 HostName 172.16.15.206
+	 port 22
+
+Host vpc-vst-stage-application4
+	 HostName 172.16.12.249
+	 port 22
+
+Host vpc-james-dbcluster5
+	 HostName 172.16.14.32
+	 port 22
+
+Host vpc-vst-test-db
+	 HostName 172.16.14.107
+	 port 22
+
+Host vpc-vst-stage-batch-application1
+	 HostName 172.16.14.103
+	 port 22
+
+Host vpc-vst-prd-application1
+	 HostName 172.16.8.96
+	 port 22
+
+Host vpc-vst-prd-ssh1
+	 HostName 172.16.7.44
+	 port 22
+
+Host vpc-vst-stage-db1
+	 HostName 172.16.14.8
+	 port 22
+
+Host vpc-vst-stage-loadbalancer2
+	 HostName 172.16.12.252
+	 port 22
+
+Host vpc-vce-dev-etl
+	 HostName 172.16.15.225
+	 port 22
+
+Host vpc-vst-stage-application1
+	 HostName 172.16.14.200
+	 port 22
+
+Host vpc-g2g-dburton
+	 HostName 172.16.14.138
+	 port 22
+
+Host vpc-vst-build
+	 HostName 172.16.15.129
+	 port 22
+
+Host vpc-vst-smoke-testautomation1
+	 HostName 172.16.15.44
+	 port 22
+
+Host VS-smachado
+	 HostName 172.16.13.144
+	 port 22
+
+Host vpc-vst-load-sync1
+	 HostName 172.16.14.87
+	 port 22
+
+Host vpc-vst-devops-batch1
+	 HostName 172.25.6.62
+	 port 22
+
+Host vpc-g2g-scm
+	 HostName 172.16.15.112
+	 port 22
+
+Host vpc-g2g-klevchenko
+	 HostName 172.16.15.4
+	 port 22
+
+Host vpc-g2g-mtimbs-linux
+	 HostName 172.16.15.17
+	 port 22
+
+Host vpc-vce-test2-web
+	 HostName 172.16.15.96
+	 port 22
+
+Host vpc-voicepoc-dev-sipproxy
+	 HostName 172.16.15.89
+	 port 22
+
+Host vpc-g2g-jmcnair-linux
+	 HostName 172.16.13.193
+	 port 22
+
+Host vpc-vst-prd-loadbalancer2
+	 HostName 172.16.8.207
+	 port 22
+
+Host vpc-vst-load-generator1
+	 HostName 172.16.15.62
+	 port 22
+
+Host vpc-vst-devops-db1
+	 HostName 172.25.6.99
+	 port 22
+
+Host ec2-g2g-psg-wsus
+	 HostName None
+	 port 22
+
+Host temp-win-ansible
+	 HostName 172.16.15.189
+	 port 22
+
+Host vpc-g2g-mmiddleton
+	 HostName 172.16.15.69
+	 port 22
+
+Host vpc-vst-dev-db-repl
+	 HostName 172.16.12.156
+	 port 22
+
+Host vpc-g2g-mshoffner-windows
+	 HostName 172.16.15.49
+	 port 22
+
+Host vpc-vst-dev-application2
+	 HostName 172.16.14.30
+	 port 22
+
+Host vpc-vbi-dev-etl
+	 HostName 172.16.15.63
+	 port 22
+
+Host vpc-g2g-ysultanov
+	 HostName 172.16.15.45
+	 port 22
+
+Host vpc-vbi-dev-tabl82b
+	 HostName 172.16.15.90
+	 port 22
+
+Host vpc-vst-devops-application1
+	 HostName 172.25.5.39
+	 port 22
+
+Host vpc-g2g-sgartia1
+	 HostName 172.16.15.24
+	 port 22
+
+Host vpc-vst-prd-application2
+	 HostName 172.16.8.170
+	 port 22
+
+Host vpc-vst-test-loadbalancer
+	 HostName 172.16.15.228
+	 port 22
+
+Host vpc-prd-nat
+	 HostName 172.16.7.38
+	 port 22
+
+Host vpc-vst-stage-sync2
+	 HostName 172.16.12.228
+	 port 22
+
+Host vpc-james-dbcluster3
+	 HostName 172.16.14.93
+	 port 22
+
+Host vpc-vst-test-sync1
+	 HostName 172.16.14.218
+	 port 22
+
+Host vpc-vst-prd-db1
+	 HostName 172.16.9.35
+	 port 22
+
+Host vpc-vst-smoke-application1
+	 HostName 172.16.14.91
+	 port 22
+
+Host vpc-g2g-QA-IE8a
+	 HostName 172.16.15.184
+	 port 22
+
+Host vpc-vst-load-application2
+	 HostName 172.16.14.201
+	 port 22
+
+Host prduse1-nat-a
+	 HostName 172.25.4.116
+	 port 22
+
+Host vpc-vbi-dev-vertica3
+	 HostName 172.16.14.31
+	 port 22
+
+Host vpc-vst-load-generator-master
+	 HostName 172.16.15.205
+	 port 22
+
+Host vpc-vce-test2-reporting
+	 HostName 172.16.15.247
+	 port 22
+
+Host vpc-vst-devops-application2
+	 HostName 172.25.5.106
+	 port 22
+
+Host vpc-vox-trans-dev1
+	 HostName 172.16.15.122
+	 port 22
+
+Host vpc-vst-stage-elk
+	 HostName 172.16.13.200
+	 port 22
+
+Host vpc-vce-optimize-db-oltp
+	 HostName 172.16.15.210
+	 port 22
+
+Host vpc-g2g-lkirienko
+	 HostName 172.16.15.136
+	 port 22
+
+Host vpc-vst-load-loadbalancer
+	 HostName 172.16.15.130
+	 port 22
+
+Host vpc-vce-test-etl
+	 HostName 172.16.15.91
+	 port 22
+
+Host vpc-vst-dev-application1
+	 HostName 172.16.14.210
+	 port 22
+
+Host vpc-vbi-dev-vertica2
+	 HostName 172.16.14.11
+	 port 22
+
+Host vpc-g2g-vsamarsky
+	 HostName 172.16.15.131
+	 port 22
+
+Host vpc-vbi-test-vertica1
+	 HostName 172.16.14.132
+	 port 22
+
+Host vpc-vst-dev-loadbalancer
+	 HostName 172.16.15.65
+	 port 22
+
+Host vpc-james-intf
+	 HostName 172.16.14.197
+	 port 22
+
+Host vpc-vce-test-db-oltp
+	 HostName 172.16.14.242
+	 port 22
+
+Host ansible-loadbalancer-temp2
+	 HostName 172.16.15.97
+	 port 22
+
+Host vpc-vst-stage-sync1
+	 HostName 172.16.14.216
+	 port 22
+
+Host vpc-vst-dev-batch-application
+	 HostName 172.16.14.228
+	 port 22
+
+Host vpc-vce-test-tel
+	 HostName 172.16.14.59
+	 port 22
+
+Host vpc-g2g-alytunenko
+	 HostName 172.16.15.251
+	 port 22
+
+Host VCG-smachado
+	 HostName 172.16.13.45
+	 port 22
+
+Host vpc-g2g-mshoffner-linux
+	 HostName 172.16.14.148
+	 port 22
+
+Host vpc-vce-jbarry-win2012
+	 HostName 172.16.13.163
+	 port 22
+
+Host vpc-vst-dev-db-ebs-inst-01
+	 HostName 172.16.14.50
+	 port 22
+
+Host prduse1-nat-b
+	 HostName 172.25.4.192
+	 port 22
+
+Host vpc-g2g-jbivins-windows
+	 HostName 172.16.15.172
+	 port 22
+
+Host vpc-vst-prd-application3
+	 HostName 172.16.8.120
+	 port 22
+
+Host vpc-vst-stage-loadbalancer1_old
+	 HostName 172.16.15.190
+	 port 22
+
+Host vpc-vbi-dev-vertica1
+	 HostName 172.16.14.63
+	 port 22
+
+Host vpc-vst-prd-admin-windows
+	 HostName 172.16.7.22
+	 port 22
+
+Host vpc-vst-devops-sync1
+	 HostName 172.25.5.56
+	 port 22
+
+Host vpc-vst-stage-elk
+	 HostName 172.16.15.201
+	 port 22
+
+Host vpc-vce-test-db2-oltp-2012
+	 HostName 172.16.14.174
+	 port 22
+
+Host vpc-vst-prd-sync1
+	 HostName 172.16.8.5
+	 port 22
+
+Host vpc-james-dbcluster1
+	 HostName 172.16.14.187
+	 port 22
+
+Host vpc-vce-dev-web2
+	 HostName 172.16.15.32
+	 port 22
+
+Host vpc-vst-test-batch-application
+	 HostName 172.16.14.111
+	 port 22
+
+Host vpc-g2g-ipashkova
+	 HostName 172.16.15.72
+	 port 22
+
+Host vpc-vce-stage-etl
+	 HostName 172.16.15.82
+	 port 22
+
+Host vpc-g2g-alitvin
+	 HostName 172.16.15.203
+	 port 22
+
+Host vpc-vst-dev-sync1
+	 HostName 172.16.14.226
+	 port 22
+
+Host vpc-vst-dev-loadbalancer2
+	 HostName 172.16.15.245
+	 port 22
+
+Host vpc-vst-stage-loadbalancer1
+	 HostName 172.16.14.28
+	 port 22
+
+Host vpc-vce-dev-db-intf
+	 HostName 172.16.14.234
+	 port 22
+
+Host vpc-vst-smoke-loadbalancer
+	 HostName 172.16.15.12
+	 port 22
+
+Host ansible-loadbalancer-temp
+	 HostName 172.16.15.167
+	 port 22
+
+Host vpc-vst-load-db-ebs2
+	 HostName 172.16.14.205
+	 port 22
+
+Host vpc-vst-smoke-sync1
+	 HostName 172.16.14.74
+	 port 22
+
+Host mcuse1-nat-a
+	 HostName 172.25.0.32
+	 port 22
+
+Host ec2-g2g-psg-admin
+	 HostName None
+	 port 22
+
+Host vpc-vce-test-web
+	 HostName 172.16.15.117
+	 port 22
+
+Host vpc-vst-load-application1
+	 HostName 172.16.14.57
+	 port 22
+
+Host vpc-g2g-dc
+	 HostName 172.16.14.9
+	 port 22
+
+Host vpc-vst-stage-batch-application2
+	 HostName 172.16.12.48
+	 port 22
+
+Host vpc-vce-stage-reporting
+	 HostName 172.16.15.71
+	 port 22
+
+Host vpc-g2g-jbivins
+	 HostName 172.16.15.31
+	 port 22
+
+Host vpc-vce-test-db-intf
+	 HostName 172.16.14.238
+	 port 22
+
+Host vpc-g2g-vpn
+	 HostName 172.16.15.7
+	 port 22
+
+Host vpc-vst-smoke-batch-application
+	 HostName 172.16.14.122
+	 port 22
+
+Host vpc-vst-prd-db2
+	 HostName 172.16.9.222
+	 port 22
+
+Host vpc-vbi-dev-tableau
+	 HostName 172.16.15.93
+	 port 22
+
+Host vpc-vst-load-batch-application
+	 HostName 172.16.14.92
+	 port 22
+
+Host gitlab_test
+	 HostName 172.16.13.215
+	 port 22
+
+Host vpc-g2g-jhill
+	 HostName 172.16.15.211
+	 port 22
+
+Host vpc-james-replicate
+	 HostName 172.16.12.121
+	 port 22
+
+Host vpc-vst-prd-admin
+	 HostName 172.16.7.14
+	 port 22
+
+Host vpc-vst-test-application2
+	 HostName 172.16.14.188
+	 port 22
+
